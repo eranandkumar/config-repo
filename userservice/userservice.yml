@@ -19,7 +19,7 @@ spring:
       name: "test"
       password: "password"
   application:
-    name: itemservice
+    name: userservice
 
 server:
   port: "9090"
